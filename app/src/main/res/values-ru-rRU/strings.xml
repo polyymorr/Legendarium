@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Легендариум</string>
+    <string name="settings">Настройки</string>
+    <string name="library_heading">Библиотека</string>
+    <string name="splash_screen">Splash Screen</string>
+</resources>
